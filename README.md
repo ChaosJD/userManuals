@@ -1,2 +1,2 @@
 # userManuals
-Good examples
+examples
